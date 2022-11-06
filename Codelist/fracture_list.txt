@@ -1,0 +1,255 @@
+medcode	clinicalevents	referralevents	testevents	immunisationevents	readcode	readterm	databasebuild
+5381	9078	146	0	0	S15..00	Fracture of thoracic vertebra	February 2009
+4629	6231	202	0	0	7K1L.00	Other closed reduction of fracture of bone	February 2009
+8891	43754	647	0	0	S3...00	Fracture of lower limb	February 2009
+28524	2861	50	0	0	S102100	Closed fracture thoracic vertebra, wedge	February 2009
+33656	705	2	1	0	S330100	Closed fracture proximal fibula	February 2009
+23971	142	1	0	0	7K1D800	Prmy open reduction #+locked reamed intramedullary nail fxtn	February 2009
+18299	12901	832	0	0	S234.00	Closed fracture of radius and ulna, lower end	February 2009
+19189	710	14	0	0	S10A200	Multiple fractures of cervical spine	February 2009
+52300	94	0	0	0	S110.00	Closed fracture of cervical spine with cord lesion	February 2009
+4359	12051	761	0	0	S23x300	Closed fracture of the radius and ulna	February 2009
+37662	647	23	0	0	S310000	Closed fracture of femur, unspecified part	February 2009
+27881	4786	30	0	0	S250600	Closed fracture finger metacarpal	February 2009
+38355	230	1	0	0	S312500	Closed fracture distal femur, lateral condyle	February 2009
+64139	68	1	0	0	S13z.00	Open fracture of pelvis NOS	February 2009
+1548	6197	622	1	0	S228.00	Fracture of lower end of humerus	February 2009
+33961	225	4	0	0	S134.00	Other or multiple closed fracture of pelvis	February 2009
+5302	8067	325	0	0	S132.00	Closed fracture pubis	February 2009
+1591	2211	131	0	0	S130.00	Closed fracture acetabulum	February 2009
+17508	2466	9	0	0	7K1E000	Prmy open reduction of #+internal fixation with plate NEC	February 2009
+6299	36336	396	0	0	S263.00	Fracture of other finger	February 2009
+36391	290	2	0	0	S300400	Closed fracture head of femur	February 2009
+5301	1385	109	0	0	S302.00	Closed fracture of proximal femur, pertrochanteric	February 2009
+11296	4170	59	0	0	S100.00	Closed fracture of cervical spine	February 2009
+6195	97525	1320	0	0	S2...00	Fracture of upper limb	February 2009
+8646	5953	33	0	0	S314.00	Fracture of shaft of femur	February 2009
+6660	1770	98	0	0	7K1L400	Closed reduction of fracture of hip	February 2009
+7428	5930	174	0	0	7K1LG00	Closed reduction of fracture of shoulder	February 2009
+42972	98	0	0	0	S311.00	Open fracture of femur, shaft or unspecified part	February 2009
+553	84606	2392	5	0	S242000	Fracture of scaphoid	February 2009
+5526	2289	140	1	0	N331.00	Pathological fracture	February 2009
+8040	14967	136	0	0	S31..00	Other fracture of femur	February 2009
+35011	1170	20	1	0	S32z.00	Fracture of patella, NOS	February 2009
+53670	119	0	0	0	7K1J011	Cl red intracaps frac neck femur fix-Garden cannulated screw	February 2009
+33593	243	1	0	0	S01z.00	Fracture of base of skull NOS	February 2009
+41287	95	2	0	0	S320400	Closed fracture patella, comminuted (stellate)	February 2009
+18825	454	13	0	0	NyuB800	[X]Unspecified osteoporosis with pathological fracture	February 2009
+16389	1150	65	0	0	S210100	Closed fracture scapula, acromion	February 2009
+12369	147	3	0	0	S339100	Open fracture of distal fibula	February 2009
+3937	31079	1657	5	0	S352700	Closed fracture metatarsal	February 2009
+2225	144676	6917	8	0	S30..00	Fracture of neck of femur	February 2009
+45736	270	22	0	0	N331H00	Collapse of cervical vertebra due to osteoporosis	February 2009
+44830	350	1	0	0	S330.00	Closed fracture of tibia and fibula, proximal	February 2009
+34403	330	4	0	0	S10A100	Fracture of second cervical vertebra	February 2009
+12673	1670	49	0	0	N331900	Osteoporosis + pathological fracture thoracic vertebrae	February 2009
+2328	4386	360	2	0	S10B500	Fracture of pubis	February 2009
+483	210537	6942	23	0	S20..00	Fracture of clavicle	February 2009
+28708	3836	6	0	0	S234600	Closed fracture radius and ulna, distal	February 2009
+11004	2575	4	0	0	S120900	Closed fracture multiple ribs	February 2009
+343	122178	7279	17	0	S234100	Closed Colles' fracture	February 2009
+6380	263	2	0	0	S235B00	Open fracture radial styloid	February 2009
+9103	7587	283	3	0	S02..00	Fracture of face bones	February 2009
+199	77663	1100	2	0	S23B.00	Fracture of lower end of radius	February 2009
+34371	26	0	0	0	S230400	Closed fracture of proximal ulna, comminuted	February 2009
+9212	7051	35	0	0	S34z.00	Fracture of ankle, NOS	February 2009
+520	44614	3755	12	0	S31z.00	Fracture of femur, NOS	February 2009
+32063	312	15	0	0	S11..00	Fracture of spine with spinal cord lesion	February 2009
+16944	1183	40	0	0	S292.00	Multiple fractures of clavicle, scapula and humerus	February 2009
+1177	10281	744	1	0	S21..00	Fracture of scapula	February 2009
+10007	3769	12	0	0	S338.00	Fracture of lower end of tibia	February 2009
+9688	21223	105	0	0	S127.00	Fracture of rib	February 2009
+6069	11587	206	0	0	7K1LH00	Closed reduction of fracture of finger	February 2009
+738	12776	804	6	0	S13..00	Fracture or disruption of pelvis	February 2009
+6074	1456	24	0	0	S235100	Open Colles' fracture	February 2009
+29164	289	2	0	0	S33y000	Open fracture of tibia, unspecified part, NOS	February 2009
+36556	225	2	0	0	S261000	Open fracture of phalanx or phalanges, unspecified	February 2009
+34850	148	3	0	0	7J43100	Fixation of fracture of spine using Harrington rod	February 2009
+4115	1103	38	0	0	7K1D100	Prim open reduct fract long bone & fixation rigid nail NEC	February 2009
+31933	844	42	0	0	7J41.00	Decompression of fracture of spine	February 2009
+4211	3334	156	1	0	S20..11	Collar bone fracture	February 2009
+4465	3692	68	0	0	7J03200	Reduction of fracture of zygomatic bones	February 2009
+2643	19593	1987	5	0	S25..11	Hand fracture - metacarpal bone	February 2009
+30058	707	4	0	0	S10..11	Fracture of transverse process spine - no spinal cord lesion	February 2009
+4409	4114	171	0	0	S10..12	Fracture of vertebra without spinal cord lesion	February 2009
+11277	1593	47	0	0	S150.00	Multiple fractures of thoracic spine	February 2009
+17377	1867	38	0	0	N331800	Osteoporosis + pathological fracture lumbar vertebrae	February 2009
+8648	2234	28	0	0	S302400	Closed fracture of femur, intertrochanteric	February 2009
+19058	394	1	0	0	S234D00	Closed fracture distal radius, extra-articular, other type	February 2009
+4310	5766	162	0	0	S352300	Closed fracture cuboid	February 2009
+7988	9251	29	0	0	S239.00	Fracture of shaft of radius	February 2009
+2630	61072	1127	7	0	S33..00	Fracture of tibia and fibula	February 2009
+835	3847	162	1	0	S10B200	Fracture of coccyx	February 2009
+2862	3551	131	0	0	S234700	Closed Smith's fracture	February 2009
+15376	5423	205	0	0	S224.00	Closed fracture of the distal humerus	February 2009
+28426	961	2	0	0	S332100	Closed fracture shaft of fibula	February 2009
+235	29538	1183	2	0	S32..00	Fracture of patella	February 2009
+34426	395	0	0	0	S230500	Closed fracture of the proximal ulna	February 2009
+12791	498	14	0	0	S310011	Thigh fracture NOS	February 2009
+90472	401	3	0	0	7J41500	Balloon kyphoplasty of fracture of spine	February 2009
+4013	887	10	0	0	N331L00	Collapse of vertebra due to osteoporosis NOS	February 2009
+35004	151	0	0	0	7K1J500	Primary int fxn(no red) prox fem #+screw/nail device alone	February 2009
+7034	8592	155	0	0	7K1LE00	Closed reduction of fracture of elbow	February 2009
+8276	11091	307	4	0	S350.00	Closed fracture of calcaneus	February 2009
+44790	855	8	0	0	S232200	Closed fracture of the ulnar shaft	February 2009
+28375	3430	28	0	0	S13y.00	Closed fracture of pelvis NOS	February 2009
+29899	943	5	0	0	S200300	Closed fracture clavicle, lateral end	February 2009
+721	41333	1167	3	0	S0...00	Fracture of skull	February 2009
+8243	1269	6	0	0	S305.00	Subtrochanteric fracture	February 2009
+17606	410	5	1	0	S240700	Closed fracture capitate	February 2009
+33749	4915	46	1	0	S200.00	Closed fracture of clavicle	February 2009
+280	56401	3070	21	0	S120.00	Closed fracture rib	February 2009
+3983	7496	337	1	0	S122.00	Closed fracture sternum	February 2009
+4725	6409	111	0	0	S242300	Multiple fractures of metacarpal bones	February 2009
+4304	13247	1145	4	0	S33x100	Closed fracture of fibula, unspecified part, NOS	February 2009
+2660	4335	801	1	0	S28z.00	Ill-defined fractures of upper limb NOS	February 2009
+1179	6020	1444	5	0	S28..11	Ill-defined fracture of arm	February 2009
+9072	3246	38	0	0	S10B400	Fracture of acetabulum	February 2009
+4029	1203	35	0	0	S210300	Closed fracture scapula, glenoid	February 2009
+36268	794	9	0	0	S022z00	Fracture of mandible, closed, NOS	February 2009
+806	33808	1565	4	0	S339.00	Fracture of fibula alone	February 2009
+2251	22386	541	1	0	S024100	Closed fracture zygoma	February 2009
+93497	75378	584	0	0	N331N00	Fragility fracture	February 2009
+2887	11706	188	0	0	7K1L100	Manipulation of fracture of bone NEC	February 2009
+28293	642	4	0	0	S234E00	Closed fracture distal radius, intra-articular, other type	February 2009
+8255	5044	49	0	0	S10..00	Fracture of spine without mention of spinal cord injury	February 2009
+24276	406	2	0	0	S30w.00	Closed fracture of unspecified proximal femur	February 2009
+18840	2335	30	0	0	S330300	Closed fracture proximal tibia, medial condyle (plateau)	February 2009
+34151	168	4	0	0	S334000	Closed fracture distal tibia, extra-articular	February 2009
+7340	28272	227	2	0	S342.00	Closed fracture ankle, lateral malleolus	February 2009
+2101	4900	471	1	0	S226.00	Fracture of upper end of humerus	February 2009
+6731	21854	142	1	0	S349.00	Fracture of lateral malleolus	February 2009
+18584	557	11	0	0	S345.00	Open fracture ankle, bimalleolar	February 2009
+27404	4800	71	0	0	S102.00	Closed fracture thoracic vertebra	February 2009
+26130	1920	17	0	0	7K1LD00	Closed reduction of fracture of nasal bone	February 2009
+325	182398	9625	31	0	S34..00	Fracture of ankle	February 2009
+22393	2539	12	0	0	7K1JH00	Primary wire fixation of fracture	February 2009
+10382	8721	86	12	0	S22z.00	Fracture of humerus NOS	February 2009
+11503	10474	79	0	0	N331M00	Fragility fracture due to unspecified osteoporosis	February 2009
+8589	962	18	1	0	S315.00	Fracture of lower end of femur	February 2009
+6839	11512	158	0	0	S339000	Closed fracture of distal fibula	February 2009
+54834	36	0	0	0	N331700	Fracture of bone in neoplastic disease	February 2009
+6320	964	15	0	0	S312100	Closed fracture of femoral condyle, unspecified	February 2009
+17455	3202	29	0	0	S02z.11	Jaw fracture NOS	February 2009
+7500	29632	254	0	0	S262.00	Fracture of thumb	February 2009
+2250	4275	108	3	0	S344.12	Pott's fracture - ankle	February 2009
+993	64592	4055	10	0	S242200	Fracture of other metacarpal bone	February 2009
+10252	1439	33	0	0	S1...00	Fracture of neck and trunk	February 2009
+11969	3601	40	0	0	S128.00	Fracture of sternum	February 2009
+971	42737	3352	6	0	S33x000	Closed fracture of tibia, unspecified part, NOS	February 2009
+15166	5529	147	2	0	S350.12	Os calcis fracture	February 2009
+3888	11358	305	2	0	S104.00	Closed fracture lumbar vertebra	February 2009
+5260	93719	1100	2	0	S26..11	Finger fracture	February 2009
+52083	79	0	0	0	S224500	Closed fracture of distal humerus, trochlea	February 2009
+43570	1385	6	0	0	S230.00	Closed fracture of proximal radius and ulna	February 2009
+20515	3040	29	0	0	S028100	Fracture of orbital floor	February 2009
+11222	11447	348	2	0	S220.00	Closed fracture of the proximal humerus	February 2009
+39859	128	0	0	0	S04..12	Multiple skull fractures	February 2009
+16895	1109	46	0	0	N1y1.00	Fatigue fracture of vertebra	February 2009
+27886	1136	8	0	0	S222100	Closed fracture of humerus, shaft	February 2009
+845	20515	1823	7	0	S35..00	Fracture of one or more tarsal and metatarsal bones	February 2009
+5886	12804	150	0	0	7K1L700	Closed reduction of fracture of tibia and or fibula	February 2009
+203	87250	9975	29	0	S234.11	Wrist fracture - closed	February 2009
+4225	2796	97	0	0	S024000	Closed fracture maxilla	February 2009
+8266	7494	147	0	0	S104100	Closed fracture lumbar vertebra, wedge	February 2009
+24493	170	5	0	0	7K1D01A	Prim open reduct # neck femur & op fix - Richards screw	February 2009
+12544	6631	17	0	0	7K1D01F	Dynamic hip screw primary fixation of neck of femur	February 2009
+8685	366	1	0	0	7K1Jb00	Primary closed reduction #+intramed nail fixation	February 2009
+28133	139	1	0	0	S10A000	Fracture of first cervical vertebra	February 2009
+6915	8107	38	0	0	S234B00	Closed fracture radial styloid	February 2009
+11378	5457	46	0	0	S12z.11	Rib fracture NOS	February 2009
+10990	4114	26	0	0	S10B000	Fracture of lumbar vertebra	February 2009
+40476	1448	5	0	0	S234500	Closed fracture distal ulna, unspecified	February 2009
+62787	70	0	0	0	S33yz00	Open fracture of tibia and fibula, unspecified part, NOS	February 2009
+6168	43569	1857	8	0	S240100	Closed fracture of the scaphoid	February 2009
+34708	232	7	0	0	S134100	Closed fracture pelvis, ischium	February 2009
+22375	2862	182	0	0	S24..00	Fracture of carpal bone	February 2009
+6667	3866	49	0	0	S132100	Closed fracture pelvis, multiple pubic rami - stable	February 2009
+27854	813	8	0	0	S134600	Closed fracture pelvis, iliac wing	February 2009
+7672	40753	105	0	0	7K1D.00	Primary open reduction fracture bone & intramedull fixation	February 2009
+17952	40837	404	0	0	S23x100	Closed fracture of radius (alone), unspecified	February 2009
+1073	24330	1230	2	0	S23x211	Fracture of ulna NOS	February 2009
+33711	1405	1	0	0	7K1E800	Prmy open reduction of #+internal fixation with screw(s)	February 2009
+9736	1646	4	0	0	S01..15	Occiput bone fracture	February 2009
+5929	25727	500	0	0	S2...11	Arm fracture	February 2009
+33720	1732	14	8	0	S224000	Closed fracture of elbow, unspecified part	February 2009
+14878	4647	289	1	0	S024.00	Fracture of malar or maxillary bones, closed	February 2009
+417	97739	6959	15	0	S020.00	Closed fracture nose	February 2009
+8382	4280	30	0	0	S238.00	Fracture of shaft of ulna	February 2009
+18962	1920	26	0	0	7K1L500	Closed reduction of fracture of femur	February 2009
+19048	1138	21	0	0	N331K00	Collapse of thoracic vertebra due to osteoporosis	February 2009
+11872	224	2	0	0	7K1LV00	Primary closed reduction of fracture alone	February 2009
+18273	3689	59	0	0	S30y.00	Closed fracture of neck of femur NOS	February 2009
+2888	99805	608	2	0	S25..00	Fracture of metacarpal bone	February 2009
+17008	370	11	0	0	N331E00	Collapse of cervical vertebra	February 2009
+6825	102964	657	41	0	S23..00	Fracture of radius and ulna	February 2009
+1250	58677	3268	8	0	S224.11	Elbow fracture - closed	February 2009
+19387	629	8	0	0	S302011	Closed fracture of femur, greater trochanter	February 2009
+43600	132	4	0	0	7J42400	Halo skull traction for fracture of spine	February 2009
+53279	196	2	0	0	S312000	Closed fracture of distal femur, unspecified	February 2009
+29121	935	10	0	0	S332.00	Closed fracture of tibia/fibula, shaft	February 2009
+27719	6917	30	0	0	S334.00	Closed fracture distal tibia	February 2009
+6917	2173	23	0	0	S336.00	Fracture of upper end of tibia	February 2009
+3573	8775	808	5	0	S10x.00	Closed fracture of spine, unspecified,	February 2009
+44538	223	0	0	0	S230A00	Closed fracture radius and ulna, proximal	February 2009
+28739	660	8	0	0	S220400	Closed fracture proximal humerus, head	February 2009
+3288	1151	57	0	0	S10A.00	Fracture of neck	February 2009
+26045	1226	27	0	0	S240500	Closed fracture trapezium	February 2009
+57328	789	1	0	0	S03z.00	Skull fracture NOS	February 2009
+2642	22327	1030	3	0	S022.00	Fracture of mandible, closed	February 2009
+30659	1459	13	0	0	S227.00	Fracture of shaft of humerus	February 2009
+7317	8807	166	2	0	S344.00	Closed fracture ankle, bimalleolar	February 2009
+22329	1040	12	0	0	S312.11	Closed fracture of femur, distal end	February 2009
+11313	4814	57	0	0	S220100	Closed fracture proximal humerus, neck	February 2009
+19186	1291	25	0	0	S222000	Closed fracture of humerus NOS	February 2009
+8800	2792	61	0	0	7K1L600	Closed reduction of fracture of knee	February 2009
+44594	34	0	0	0	7K1J600	Primary int fxn(no red) prox fem #+scrw/nail+intramed device	February 2009
+44949	141	0	0	0	S02B.00	Le Fort II fracture maxilla	February 2009
+6106	9088	234	0	0	7K1L800	Closed reduction of fracture of ankle	February 2009
+5280	21864	385	0	0	S028000	Fracture of nasal bones	February 2009
+4978	3436	175	2	0	S02x100	Fracture of orbit NOS, closed	February 2009
+909	25655	1261	2	0	S23z.00	Fracture of radius and ulna, NOS	February 2009
+7564	4219	31	0	0	S242100	Fracture of first metacarpal bone	February 2009
+137	174643	10745	14	0	S23x111	Fracture of radius NOS	February 2009
+1742	59885	698	1	0	S234200	Closed fracture of the distal radius, unspecified	February 2009
+7831	7649	36	0	0	S120000	Closed fracture of rib, unspecified	February 2009
+21773	614	13	0	0	S3x2.00	Multiple fractures of femur	February 2009
+169	73750	2501	9	0	S35..11	Metatarsal bone fracture	February 2009
+28702	476	7	0	0	S132z00	Closed fracture pubis NOS	February 2009
+9538	8596	268	0	0	S230100	Closed fracture olecranon, extra-articular	February 2009
+7004	10246	92	0	0	S132000	Closed fracture pelvis, single pubic ramus	February 2009
+12516	12647	63	0	0	S2B..00	Fracture of bone of hand	February 2009
+4763	1386	147	0	0	7K1D400	Prim open reduction fragment of bone & fixation using screw	February 2009
+2793	6711	765	8	0	N331.12	Collapse of vertebra NOS	February 2009
+33905	2735	18	1	0	S250200	Closed fracture finger metacarpal base	February 2009
+5841	1063	27	0	0	N331J00	Collapse of lumbar vertebra due to osteoporosis	February 2009
+11453	986	12	0	0	7K1LB00	Closed reduction of fracture of hallux	February 2009
+2303	11740	499	0	0	S237.00	Fracture of upper end of radius	February 2009
+38728	386	6	0	0	N331D00	Collapsed vertebra NOS	February 2009
+24621	4233	24	0	0	S23x200	Closed fracture of ulna (alone), unspecified	February 2009
+2603	13451	993	1	0	S3...11	Leg fracture	February 2009
+8056	32775	559	0	0	S242.00	Fracture at wrist and hand level	February 2009
+6893	20710	292	0	0	S224100	Closed fracture distal humerus, supracondylar	February 2009
+6868	4428	55	0	0	S310.00	Closed fracture of femur, shaft or unspecified part	February 2009
+5332	1808	13	0	0	S312300	Closed fracture distal femur, supracondylar	February 2009
+16494	1108	0	0	0	S120100	Closed fracture of one rib	February 2009
+4572	6506	499	3	0	S33x200	Closed fracture of tibia and fibula, unspecified part	February 2009
+10570	2457	69	0	0	S30y.11	Hip fracture NOS	February 2009
+8302	8827	102	42	0	S260.00	Closed fracture of one or more phalanges of hand	February 2009
+3408	1343	69	1	0	S021.00	Open fracture nose	February 2009
+17107	2561	14	0	0	S29..12	Multiple rib fractures	February 2009
+6213	2552	7	0	0	S23C.00	Fracture of lower end of both ulna and radius	February 2009
+6392	63183	3711	15	0	S250.00	Closed fracture of metacarpal bone(s)	February 2009
+11161	11531	51	0	0	S028300	Fracture of mandible	February 2009
+7339	9550	224	0	0	7K1LA00	Closed reduction of fracture of toe	February 2009
+2461	1556	48	1	0	S01..00	Fracture of base of skull	February 2009
+27287	255	27	0	0	S02x000	Fracture of alveolus, closed	February 2009
+16890	625	7	0	0	S022.12	Fracture of lower jaw, closed	February 2009
+517	150967	5802	11	0	S22..00	Fracture of humerus	February 2009
+3095	11954	231	0	0	7J03100	Reduction of fracture of nasal bones NEC	February 2009
+28965	185	3	0	0	S304.00	Pertrochanteric fracture	February 2009
+4737	9136	841	12	0	S34x.00	Closed fracture ankle, unspecified	February 2009
+7723	10785	82	0	0	S337.00	Fracture of shaft of tibia	February 2009
+7009	27935	429	0	0	S230600	Closed fracture radius, head	February 2009
+1994	26907	1971	3	0	S30..11	Hip fracture	February 2009
+11639	125	1	0	0	S134z00	Other or multiple closed fracture of pelvis NOS	February 2009
