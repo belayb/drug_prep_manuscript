@@ -13,9 +13,9 @@
 ## Email: belaybirlie.yimer@manchester.ac.uk
 ##
 ## ---------------------------
-##
+## 
 ## Notes: The CPRD datasets used in this script are part of a large CPRD cohort extracted 
-##        to invistigate the patters of opioid prescription in UK from 2006 - 2018. In this
+##        to investigate the patterns of opioid prescription in UK from 2006 - 2018. In this
 ##        analysis onaly a subset of these data will be used. That is, individuals of ≥18 
 ##        years of age and who had a record of at least one opioid prescription between 
 ##        January 1, 2017, and December 31, 2017 included. Their follow end date, if not 
@@ -53,10 +53,10 @@ here::i_am("Package Example/example.R")
 ##      4. patient_extract_1 - CPRD patients table
 
 
-opiate <- read.csv(here("Raw Data/opiate_from2015_data.csv"))
-product <- readstata13::read.dta13(here("Raw Data/lookup_table_opioids_12y_cohort.dta"))
-min_max <- read.csv(here("Raw Data/min_max_dat.csv"))
-Patient_extract_1<-read.delim(here("Raw Data/TS_opiates_Feb2017_Extract_Patient_001.txt"))
+opiate <- read.csv(here("Data/opiate_data.csv"))
+product <- readstata13::read.dta13(here("Data/lookup_table_opioids.txt"))
+min_max <- read.csv(here("Data/min_max_dat.csv"))
+Patient_extract_1<-read.delim(here("Data/CPRD_Patient_table.txt"))
 
 ## Get the individuals with their index opioid prescription is after January 1, 2017. 
 
@@ -92,7 +92,7 @@ rm(Patient_extract_1)
 ## The fracture data was preprocessed using the ---- R code 
 ## Here, we will be using fractures identified using read codes from clinical file.
 
-fracture_readcode <- read.csv(here("Raw Data/fracture_clinicals_with_readcodes.csv"))
+fracture_readcode <- read.csv(here("Data/fracture_clinicals_with_readcodes.csv"))
 length(unique(fracture_readcode$patid)) # 856934
 
 ## convert fracture data in to a wide format
